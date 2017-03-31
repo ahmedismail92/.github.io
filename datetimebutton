@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<button type="button"
+onclick="document.getElementById('date').innerHTML = Date()">
+Click for current Date and Time.</button>
+
+<p id="date"></p>
+
+</body>
+</html> 
